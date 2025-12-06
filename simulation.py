@@ -1,8 +1,3 @@
-"""
-Getting slower as it aproches the target.
-add another arm. (tried earlier but failed).
-"""
-
 import tkinter as tk
 from tkinter import ttk
 import math
